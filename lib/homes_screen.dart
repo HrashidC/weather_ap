@@ -219,8 +219,8 @@ class _HomescreenState extends State<Homescreen> with RestorationMixin {
         return 'asset/sunny.json';
       case "Clear":
         return 'asset/clearDN.json';
-      case "Partly Cloudy":
-        return 'asset/Partly cloudy.json';
+      case "Partly cloudy":
+        return 'asset/Partly Cloudy.json';
       case "Cloudy":
         return 'asset/cloudy.json';
       case "Overcast":
