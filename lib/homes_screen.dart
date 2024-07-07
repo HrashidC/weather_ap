@@ -19,7 +19,7 @@ class Homescreen extends StatefulWidget {
 class _HomescreenState extends State<Homescreen> with RestorationMixin {
   RestorableTextEditingController textController =
       RestorableTextEditingController();
-      // Timer? _timer;
+      Timer? _timer;
         String? errorMessage;
 
 
